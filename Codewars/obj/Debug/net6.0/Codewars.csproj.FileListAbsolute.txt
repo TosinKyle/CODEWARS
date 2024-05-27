@@ -1,0 +1,15 @@
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\bin\Debug\net6.0\Codewars.exe
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\bin\Debug\net6.0\Codewars.deps.json
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\bin\Debug\net6.0\Codewars.runtimeconfig.json
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\bin\Debug\net6.0\Codewars.dll
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\bin\Debug\net6.0\Codewars.pdb
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.AssemblyInfoInputs.cache
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.AssemblyInfo.cs
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.csproj.CoreCompileInputs.cache
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.dll
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\refint\Codewars.dll
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.pdb
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.genruntimeconfig.cache
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\ref\Codewars.dll
+C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\MINE\PROG. LESSONS\Codewars\obj\Debug\net6.0\Codewars.csproj.AssemblyReference.cache
