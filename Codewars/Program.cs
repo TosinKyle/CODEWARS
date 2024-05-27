@@ -10,7 +10,7 @@ namespace Codewars
         static void Main(string[] args)
         {
             double sum = 0;
-            double[] myArray = new double[] {1,5.2,4,0,-1};
+            double[] myArray = new double[] {1,5.2,4,0,-1,3};
             foreach (double i in myArray)
             {  
                 sum = sum + i;
